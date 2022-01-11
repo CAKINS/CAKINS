@@ -1,0 +1,3 @@
+I am trying to validate some neural net hardware, and need the weights for RESNET34 which have been pretrained on ImageNet. (Actually I need all the trainable or adjustable parameters from a pretrained RESNET34) 
+Does anyone know how I can get these weights? 
+Are they available in a file from some source, or if there is a way to extract the weights from a pretrained model.
